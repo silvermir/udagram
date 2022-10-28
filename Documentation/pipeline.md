@@ -1,0 +1,3 @@
+# Pipeline
+
+![](Diagrams/circleci.png)
